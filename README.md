@@ -19,7 +19,7 @@
 
 - :seedling: I work as a QA-engineer in a large IT company.
 
-- :zap: In my free time, I travel the world and read books.
+- :zap: In my free time, I travel the world, read books and play with my dog ​​Harley.
 
 ---
 
@@ -37,6 +37,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
 </div>
+<div> 
+  <img src="https://giphy.com/stickers/dogs-frenchie-french-bulldogs-5MAXldzIG4ZtqYedCX" width="300"/></div>
 
 ---
 
