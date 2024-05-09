@@ -20,7 +20,7 @@
 - :seedling: I work as a QA-engineer in a large IT company.
 
 - :zap: In my free time, I travel the world, read books and play with my dog ​​Harley.
-  <div> <img src="https://giphy.com/stickers/dogs-frenchie-french-bulldogs-5MAXldzIG4ZtqYedCX" width="300"/></div>
+  <div> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pnMTNtaTZnZG04NnhwemN0ZDV1dXQxZm53a3h2ZGhobXpycXl6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5MAXldzIG4ZtqYedCX/giphy.gif" width="300"/></div>
 
 ---
 
