@@ -13,9 +13,7 @@
 
 <h1>:woman_technologist: About Me:</h1>
 
-- :computer: I am a Junior Front-End Developer.
-
-- :telescope: I'm learning HTML&CSS, I'll start learning JavaScript soon.
+- :computer: I am a Fullstack QA (Python).
 
 - :seedling: I work as a QA-engineer in a large IT company.
 
