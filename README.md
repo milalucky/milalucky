@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTViMzY0N2U4ZmY3MGFiYWZlMDBjMWY2ZmRmNWEzY2Y5OWQyOTUzZSZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano0Z3VnaHR2c2I3NjVkNnpleDV3b2NiZjJhOWZqZm85ZGR4Z2FwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
 </div align="center">
 <div id="soc" align="center">
   <a href="https://www.linkedin.com/in/milana-zharkevich-374087aa/">
